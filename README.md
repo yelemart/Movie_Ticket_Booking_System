@@ -6,7 +6,7 @@ Hello! This is a very simple movie booking system built using Java. Users can se
 - An IDE (like IntelliJ IDEA, Eclipse, or NetBeans)
 
   
-##How to run the code
+## How to run the code
 - Select a movie from the dropdown.
 - Enter your email address.
 - Choose available seats and click "Book Ticket" to complete your booking.
